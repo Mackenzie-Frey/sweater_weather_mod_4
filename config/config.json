@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "mackenziefrey",
+    "password": null,
+    "database": "sweater_weather_mod_4_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "mackenziefrey",
+    "password": null,
+    "database": "sweater_weather_mod_4_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "mackenziefrey",
+    "password": null,
+    "database": "sweater_weather_mod_4_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
